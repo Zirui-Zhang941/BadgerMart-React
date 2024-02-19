@@ -77,6 +77,12 @@ Using your knowledge of React and visual design, improve your Badger Mart interf
 
 INSERT YOUR RESPONSE HERE.
 
+principles: balance, the first thing that noticed is when in xl web page, it is not really balanced thus I make the xl page more balanced by only show 3 items in one row to achieve balance
+
+principles: contrast, I made the featured item colored red and expecially bolded price and itemname to attract user's attention
+
+element: shape, the +/- button is not really comfortable when I see them as a user thus I changed them to a more soft shape and colored blue
+
 ### 7. Ideate Visual Design
 
 In the above step, you were likely limited by your knowledge of React. Now, think bigger! Use a hand-drawn or digital sketch to demonstrate an improved interface following 5 design elements or principles. You can re-use elements or principles from above as long as they are applied in a new way. Please **annotate your sketch** to describe the 5 design elements or principles you used.
@@ -84,7 +90,7 @@ In the above step, you were likely limited by your knowledge of React. Now, thin
 **Hint:** Images can be included by adding them to the `_figures` folder and using the following markdown format: `![description of image](_figures/example.png)`.
 
 INSERT YOUR ANNOTATED SKETCH HERE.
-
+![drawing](_figures\IMG_2978.JPG)
 ## Done! 🥳
 
 Congrats! Add, commit, and push your files to GitHub Classroom and paste your commit hash in the Canvas assignment.
